@@ -1,0 +1,4 @@
+displaying a number of  questions andd answers. clicking on a question expands it and shows the answer
+Components:
+    App
+    Accordion: will be making this reusable
